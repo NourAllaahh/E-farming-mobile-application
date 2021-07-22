@@ -1,0 +1,106 @@
+name: efarm
+description: Graduation Project
+
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  http:
+  # Firebase Dependencies
+  firebase_core: "0.5.0"
+  firebase_auth: "^0.18.0+1"
+  cloud_firestore: "^0.14.0+2"
+  google_sign_in: "^4.5.1"
+  firebase_messaging: 
+  #Slider
+  carousel_pro: ^1.0.0
+  #PDD
+  image_picker: 
+  tflite: ^1.1.2 
+  image: 
+  liquid_progress_indicator: ^0.3.2
+  #About
+  about: ^1.4.0
+  #contact
+  url_launcher: ^5.7.10
+  contactus: ^1.1.7
+  #Splashscreens
+  splashscreen: ^1.2.0
+  custom_splash: ^0.0.2
+  #Design
+  expansion_card: ^0.1.0
+  slimy_card: ^1.0.4
+  drawerbehavior: 
+  expandable: ^5.0.1
+  #SharedPrefrences
+  shared_preferences: 
+  #HarvestTimer
+  provider: 
+  rxdart: ^0.22.0
+  flutter_local_notifications: ^0.7.1+1
+  flutter_dialogflow_v2: ^0.3.2
+ 
+ 
+  
+  
+  
+  
+  
+
+
+
+
+
+dev_dependencies: 
+  flutter_test:
+    sdk: flutter
+
+
+flutter:   
+  uses-material-design: true
+
+  assets:
+     - images/Logos/
+     - images/PDD/
+     - images/FarmersGuide/
+     - images/Logos/MarketLogos/
+     - images/Logos/PlantDiseasesLogos/
+     - images/HomePage/SliderHomePage/
+     - images/HomePage/
+     - images/MarketHome/
+     - images/MarketHome/MarketSlider/
+     - images/IconLogo/
+     - images/Boards/PDDBoard/
+     - images/Splash/
+     - images/HarvestTimer/
+     - images/SoilModel/
+     - images/ForYou/A/
+     - images/ForYou/B/
+     - images/ForYou/C/
+
+
+    #PDD Model
+     - assets/PDDModel.tflite
+     - assets/PDDlabels.txt
+    #SOIL Model
+     - assets/SoilType.tflite
+     - assets/Soillabels.txt
+
+     
+     
+  fonts:
+    - family: Poppins
+      fonts:
+      - asset: fonts/Poppins-ExtraBold.ttf
+
