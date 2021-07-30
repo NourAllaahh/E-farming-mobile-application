@@ -25,7 +25,7 @@ For Our Application UI & UX we used:
 ## Two CNN Models
 
 Plant disease detection and soil picker are created by machine learning cinvlutional neural network concepts and here are links to the two models compilation and creation in ditails:
-* - [Soil picker: Ceration and compilation](https://flutter.dev/docs/get-started/codelab)
+* - [Soil picker: Ceration and compilation](https://github.com/NourAllaahh/Soil-Picker-CNN-Model.git)
 * - [Plant disease detection: Ceration and compilation](https://github.com/NourAllaahh/Plant-disease-detection-CNN-Model.git)
 ## Note 
 Please dm me our contact my email: nourallaahh@gmail.com to see the full documentation of this project 
