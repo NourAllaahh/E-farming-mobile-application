@@ -28,7 +28,7 @@ Plant disease detection and soil picker are created by machine learning cinvluti
 * - [Soil picker: Ceration and compilation](https://flutter.dev/docs/get-started/codelab)
 * - [Plant disease detection: Ceration and compilation](https://github.com/NourAllaahh/Plant-disease-detection-CNN-Model.git)
 ## Note 
-Please dm me our contact my email to see the full documentation of this project 
+Please dm me our contact my email: nourallaahh@gmail.com to see the full documentation of this project 
 
 This project is a starting point for a Flutter application.
 
